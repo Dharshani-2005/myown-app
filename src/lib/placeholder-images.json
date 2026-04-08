@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "landing-hero-1",
+      "description": "A futuristic and inspiring image of a student interacting with holographic interfaces related to engineering and career planning.",
+      "imageUrl": "https://picsum.photos/seed/forge-flow-hero/1200/675",
+      "imageHint": "student future"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for a student user.",
+      "imageUrl": "https://picsum.photos/seed/user1/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "qr-code-whatsapp",
+      "description": "A placeholder QR code for WhatsApp integration.",
+      "imageUrl": "https://picsum.photos/seed/qr-code/200/200",
+      "imageHint": "qr code"
+    }
+  ]
 }
