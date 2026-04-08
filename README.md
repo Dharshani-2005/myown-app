@@ -1,1 +1,2 @@
-# myown-app
+# My Project
+This is my application.
